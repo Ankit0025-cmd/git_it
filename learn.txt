@@ -3,3 +3,6 @@ initial file
 
 Day 2
 its day2
+
+Day 3
+its day3
